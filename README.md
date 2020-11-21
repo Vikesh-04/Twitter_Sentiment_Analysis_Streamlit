@@ -7,9 +7,9 @@ Functionality –<br />
 •	Cleaning and preprocessing tweets for sentiment analysis<br /><br />
 
 Prerequisite -<br />
-• streamlit
-•	Twitter API 
-•	tweepy library
-• textblob library
-• wordcloud library
+• streamlit<br />
+•	Twitter API <br />
+•	tweepy library<br />
+• textblob library<br />
+• wordcloud library<br />
 
