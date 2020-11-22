@@ -7,8 +7,7 @@ Functionality –<br />
 •	Cleaning and preprocessing tweets for sentiment analysis<br /><br />
 
 Demo -<br />
-![twitter_sentiment_analysis](https://user-images.githubusercontent.com/70128948/99898251-04c38000-2cc6-11eb-88cd-c7cce19b94fe.gif) <br />
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/70128948/99898563-4f45fc00-2cc8-11eb-8419-0219731587a8.gif)<br />
 
 Prerequisite -<br />
 • streamlit<br />
