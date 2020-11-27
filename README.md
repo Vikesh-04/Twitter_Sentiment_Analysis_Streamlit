@@ -1,5 +1,5 @@
 # Twitter_Sentiment_Analysis_Streamlit
-Performing sentiment analysis of tweets using twitter API in Streamlit <br /><br />
+Performing sentiment analysis of tweets fetching through twitter API in Streamlit <br /><br />
 Functionality –<br />
 •	Fetches the tweets from Twitter through API based on the parameters selected<br />
 •	User has a choice to fetch for a particular Hashtag or Twitter handle<br />
